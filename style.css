@@ -1,0 +1,36 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(255, 122, 82, 0.932),rgb(230, 15, 15));
+    font-size: 20px;
+    padding: 20px 40px;
+    border-radius: 80px;
+    font-weight:lighter;
+    color: white;
+    
+    
+}
+span{
+    color: crimson;
+}
+section{
+    display: flex;
+    margin: 5%;
+    
+}
+.Top-left{
+    width: 50%;
+    padding: 2%;
+    
+}
+.Top-right{
+    width: 50%;
+    padding: 5%;
+    
+}
