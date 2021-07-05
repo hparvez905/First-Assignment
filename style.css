@@ -21,9 +21,9 @@ p{
 span{
     color: crimson;
 }
-section{
+.Top{
     display: flex;
-    margin-bottom: 100px;
+    
     padding: 5%;
     
 }
@@ -34,4 +34,20 @@ section{
 }
 .Top-right{
     width: 50%;  
+    margin-left:  40px; 
+}
+.Middle{
+    display: flex;
+    
+    background-image: url(back-image.jpg);
+    
+}
+.middle-left{
+    width: 50%;
+    padding-top: 100px;
+    
+}
+.middle-right{
+    width: 50%;  
+    margin-left:  40px; 
 }
