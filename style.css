@@ -4,12 +4,12 @@ body{
 }
 p{
     font-size: 25px;
-    margin-bottom: 70px;
+    margin-bottom: 80px;
 }
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(rgba(255, 122, 82, 0.932),rgb(230, 15, 15));
-    font-size: 25px;
+    font-size: 22px;
     padding: 20px 40px;
     border-radius: 80px;
     font-weight:lighter;
@@ -40,6 +40,7 @@ span{
     display: flex;
     
     background-image: url(back-image.jpg);
+    margin-bottom: 100px;
     
 }
 .middle-right{
@@ -48,9 +49,17 @@ span{
     margin-right: 100px;
     
     
+    
 }
 .middle-left{
     width: 50%;  
     padding-top: 20px;
     margin-left: 200px;
+}
+h2{
+    text-align: center;
+}
+.cerntre-text{
+    text-align: center;
+    
 }
