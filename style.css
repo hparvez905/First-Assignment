@@ -3,7 +3,7 @@ body{
     font-size: 40px;
 }
 p{
-    font-size: 30px;
+    font-size: 25px;
     margin-bottom: 70px;
 }
 .link-button{
@@ -42,12 +42,15 @@ span{
     background-image: url(back-image.jpg);
     
 }
-.middle-left{
+.middle-right{
     width: 50%;
-    padding-top: 100px;
+    padding: 50px;
+    margin-right: 100px;
+    
     
 }
-.middle-right{
+.middle-left{
     width: 50%;  
-    margin-left:  40px; 
+    padding-top: 20px;
+    margin-left: 200px;
 }
