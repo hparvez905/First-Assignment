@@ -65,7 +65,7 @@ h2{
 }
 .food{
     display: flex;
-    width: 200px;
+    width: 30%;
     padding-bottom: 100px;
     margin-left: 150px;
     margin-right: 150px;
