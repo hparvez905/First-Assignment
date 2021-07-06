@@ -98,3 +98,12 @@ h2{
     margin-right: 100px;
     
 }
+.last-p{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.last-part{
+    background-color:rgb(23, 40, 75);
+    height: 300px;
+}
